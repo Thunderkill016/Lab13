@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/pngtree-creative-realistic-wind-full-moon-background-image_334420.jpg);
+}
+
+.carousel-item {
+  height: 46rem;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/c5bb20f0-d55c-4b5f-8e15-c9b354359d6a-shutterstock-1703851552.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/RS14496_178978365.jpg);
+}
